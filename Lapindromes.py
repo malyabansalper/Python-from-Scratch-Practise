@@ -20,6 +20,7 @@ for i in range(0,n,1):
                 secondhalf.append(x[i])
     dict1=dict()
     dict2=dict()
+#     Try
     # for i in firsthalf:
     #     if i not in f:
     #         f.append(i)
